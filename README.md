@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align="right">
+ 
+  ![Profile Views](https://komarev.com/ghpvc/?username=8Vadim8&style=plastic&color=18a7b5&label=visitors)
+</div>
 
-<!--
-**8Vadim8/8Vadim8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Hi, There! I'm Vadim.
+<div style="display: inline_block" align="left">
+ 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=8Vadim8&layout=compact&theme=dark" align="right" height="130"/>
+ 
+  
+  I'm python backend developer. learning python do the best!
+  <br />
+  <br />
+  <br />
+</div>
+<br />
+<div style="display: inline_block" align="center">
 
-Here are some ideas to get you started:
+### Languages and Tools :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python"  alt="Python"  width="60"  height="60" align="center"/>&nbsp;
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  title="Django"  alt="Django"  width="60"  height="60" align="center"/>&nbsp;
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  title="GIT"  alt="GIT"  width="60"  height="60" align="center"/>&nbsp;
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  title="Docker"  alt="Docker"  width="60"  height="60" align="center"/>&nbsp;
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  title="CSS"  alt="CSS"  width="60"  height="60" align="center"/>&nbsp;
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"  title="HTML"  alt="HTML"  width="60"  height="60" align="center"/>&nbsp;
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  title="Linux"  alt="Linux"  width="60"  height="60" align="center"/>&nbsp;
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="60" height="60" align="center"/>&nbsp;
+
+![Snake animation](https://github.com/8Vadim8/8Vadim8/blob/snake/github-contribution-grid-snake.svg)
+
+</div>
